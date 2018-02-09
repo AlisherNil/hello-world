@@ -3,7 +3,7 @@ Or here?
 
 test repository
 
-I wonder where would chenges go?
+I wonder where would changes go?
 
 
 Here?
